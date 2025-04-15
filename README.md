@@ -1,7 +1,7 @@
 # HIDE
 Hybrid Initialization Differential Evolution for Multi-Satellite Scheduling
 
-### :bulb: Initialization Strategy Improved Evolution for Multiple Agile Satellites Scheduling Under Actuator Faults
+### :bulb: Initialization Strategy Improved Differential Evolution for Multiple Agile Satellites Scheduling Under Actuator Faults
 <p align="center">
 <img src="hybrid_init.png" width="600px" height="350px" />
 </p>
